@@ -69,10 +69,10 @@ It aims to support students, citizens, and individuals who need accessible ways 
 ## 👩‍💻 Developed By
 
 **Team AccessDoc AI**
-Ramineni Mahitha
-Veeranki Hemaswi
-Mallampalli HarshaPriya
-Arekatla Jahnavi
+Ramineni Mahitha,
+Veeranki Hemaswi,
+Mallampalli HarshaPriya,
+Arekatla Jahnavi.
 
 
 
