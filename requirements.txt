@@ -1,7 +1,8 @@
 streamlit
 google-genai
 PyPDF2
-gTTs
+gTTS
 deep-translator
 PyMuPDF
 python-dotenv
+
