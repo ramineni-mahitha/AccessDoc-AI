@@ -51,6 +51,11 @@ AccessDoc AI is an AI-powered web application designed to improve the accessibil
    ```
 
 6. Open the local URL displayed in your terminal.
+   
+## 🚀 Live Demo
+
+Try AccessDoc AI here:
+https://accessdoc-ai.onrender.com/
 
 ## 🎯 Project Objective
 
