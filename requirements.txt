@@ -4,3 +4,4 @@ PyPDF2
 gTTs
 deep-translator
 PyMuPDF
+python-dotenv
